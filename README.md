@@ -1,2 +1,2 @@
-# algorithms-in-python
-Algorithmic library in python
+# _Algorithms in Python_
+An algorithmic library in python
